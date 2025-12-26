@@ -1,16 +1,19 @@
-## Hi there 👋
+Hey there! 
 
-<!--
-**Lance-Python-Dev/Lance-Python-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Lance, a Data Engineer based in Nigeria.
 
-Here are some ideas to get you started:
+Asides Data Engineering, these are the fields I'm Interested in, and have the skils to work in: 
+- Prompt Engineering
+- AI/Workflow Operations
+- AI Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  also, an other fields that use AI and exposed to a lot of LLMs(Large Language Models)
+
+If an idea pops into my head, chances are I’ll build it and ship it.
+
+My main tech stack is Python, and I have basic proficiency in JavaScript and C#. My favorite tools are VS Code, n8n.
+I work with a lot of AI tools for my projects eg. Claude's Sonnet, Chatgpt's OpenAI, Gemini, v0.dev
+
+I’ve got a bunch of pinned projects, but my favorites is the Mini DataLake House & My first AI Workflow.
+
+Thank you for reading to the end. You could view a few of my projects too!
