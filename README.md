@@ -7,7 +7,7 @@ Asides Data Engineering, these are the fields I'm Interested in, and have the sk
 - AI/Workflow Operations
 - AI Software Engineering
 
-  also, an other fields that use AI and exposed to a lot of LLMs(Large Language Models)
+  also, any other fields that use AI and exposed to a lot of LLMs(Large Language Models)
 
 If an idea pops into my head, chances are I’ll build it and ship it.
 
